@@ -1,4 +1,4 @@
-﻿namespace StreamDeckWebHookControl
+﻿namespace StreamDeckControl.API
 {
     public class AppConfig
     {
